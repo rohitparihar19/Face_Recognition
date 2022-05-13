@@ -18,5 +18,3 @@ pip install cmake
 
 pip install dlib
 
-![68-facial-landmarks](https://user-images.githubusercontent.com/102134613/168219013-5b8165f5-9d69-4874-8b90-b94867e7fccd.jpg)
-
